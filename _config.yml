@@ -52,7 +52,7 @@ social-network-links:
   email: "quijano1@kenyon.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: quijano1-cell
-#  medium: yourname
+#  medium: cambell
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
@@ -130,7 +130,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#FFF8DC"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
