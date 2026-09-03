@@ -31,13 +31,13 @@ Here's a table:
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-How about a yummy crepe?
+Do you like cinnamon rolls?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Cinnamon Rolls](https://bromabakery.com/wp-content/uploads/2022/01/Perfect-Cinnamon-Rolls-10-1067x1600.jpg){: .mx-auto.d-block :}
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+#![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
