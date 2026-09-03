@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: cambell quijano
+author: Cambell Quijano
 ---
 
 {: .box-success}
