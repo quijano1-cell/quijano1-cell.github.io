@@ -23,8 +23,8 @@ I was in the K. Rouhier lab doing tomato protein analysis this past summer
 
 ---
 
-## Boxes
-You can add notification, warning and error boxes like this:
+## Experience and Take aways
+Here is some info about my experience with class resources and what I hope to gain from the class:
 
 
 {: .box-note}
