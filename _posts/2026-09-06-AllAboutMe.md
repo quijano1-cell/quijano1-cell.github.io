@@ -2,7 +2,6 @@
 layout: post
 title: All About Me
 subtitle: Graded Blog Post #1
-cover-img: /assets/img/billnye.gif
 thumbnail-img: /assets/img/miffy2.jpeg
 gh-repo: quijano1-cell/beautiful-jekyll
 gh-badge: [star, fork, follow]
