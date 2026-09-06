@@ -3,7 +3,7 @@ layout: post
 title: All About Me
 subtitle: Graded Blog Post #1
 cover-img: /assets/img/billnye.gif
-thumbnail-img: /assets/img/miffy.jpeg
+thumbnail-img: /assets/img/miffy2.jpeg
 gh-repo: quijano1-cell/beautiful-jekyll
 comments: true
 mathjax: true
@@ -14,7 +14,7 @@ author: Cambell Quijano
 ## Class of 2029 
 ---
 ## Math and Environmental Science Major
-#### Possible Computer Science Concentration
+###### Possible Computer Science Concentration
 
 ![Bill Nye](https://media1.tenor.com/m/VYnp7sSL3YcAAAAC/bill-nye-billnyeusesmywifi.gif "Bill Nye Meme"){: .mx-auto.d-block }
 
