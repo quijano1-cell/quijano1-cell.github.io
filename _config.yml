@@ -50,15 +50,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "quijano1@kenyon.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: quijano1-cell
+  github: "https://quijano1-cell.github.io/"
 #  medium: cambell
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+#  instagram: cambelle_michellle
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
