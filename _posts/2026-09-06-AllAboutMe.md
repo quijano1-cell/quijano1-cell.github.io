@@ -4,13 +4,10 @@ title: All About Me
 subtitle: Graded Blog Post #1
 thumbnail-img: /assets/img/miffy2.jpeg
 gh-repo: quijano1-cell/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 mathjax: true
 author: Cambell Quijano
 ---
-
 # Cambell Quijano 
 ## Class of 2029 
 ---
