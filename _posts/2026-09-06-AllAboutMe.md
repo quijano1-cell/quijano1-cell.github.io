@@ -19,7 +19,7 @@ author: Cambell Quijano
 ![Bill Nye](https://media1.tenor.com/m/VYnp7sSL3YcAAAAC/bill-nye-billnyeusesmywifi.gif "Bill Nye Meme"){: .mx-auto.d-block }
 
 
-I was in the K. Rouhier lab doing tomato protien analysis
+I was in the K. Rouhier lab doing tomato protein analysis this past summer
 
 ---
 
