@@ -1,17 +1,11 @@
 ---
-layout: page
-title: Who is Cambell Quijano
+layout: Why Etextiles?
 subtitle: 
 ---
 
-My name is Cambell Quijano. Here are thing you should know
-
-- I love watching cartoons and my dream job is to be an animator
-- I love dogs
-- I like cinnamon rolls and throwing surprise parties
-
-What else do you need?
-
 ### My story
+Hi, I'm Cambell Quijano, a math major at Kenyon College, and I'm genuinely excited to be taking Electronic Textiles this semester.
 
-This one of my favorite pictures of my friends with my  [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My background with computers and coding is pretty minimal. When I looked at the requirements for my math major, I realized I needed to take a coding class, but I didn't want to pile that onto the two math classes I'm already juggling. Electronic Textiles caught my eye right away because it let me be creative instead of just staring at lines of code. It's the perfect mix: I get to learn a real technical skill while also expanding my sewing abilities and making something I can actually hold in my hands.
+
+I'm looking forward to seeing where sewing and circuits meet, and to building something genuinely cool by the end of the course.
