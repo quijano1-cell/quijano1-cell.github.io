@@ -12,8 +12,7 @@ author: Cambell Quijano
 ## Class of 2029 
 ---
 ## Math and Environmental Science Major
-![Possible Computer Science Concentration]
-{: .mx-auto.d-block}
+### Possible computer science major
 
 ![Bill Nye](https://media1.tenor.com/m/VYnp7sSL3YcAAAAC/bill-nye-billnyeusesmywifi.gif "Bill Nye Meme") {: .mx-auto.d-block }
 
