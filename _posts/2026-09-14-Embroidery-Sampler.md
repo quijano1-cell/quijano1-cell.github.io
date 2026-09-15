@@ -1,7 +1,7 @@
 ---
 layout: post
-title: All About Me
-subtitle: Graded Blog Post #1
+title: Embroidery Sampler Post
+subtitle: Graded Blog Post #2
 thumbnail-img: /assets/img/miffy2.jpeg
 gh-repo: quijano1-cell/beautiful-jekyll
 comments: true
