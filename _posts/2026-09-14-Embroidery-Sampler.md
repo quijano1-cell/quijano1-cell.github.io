@@ -11,9 +11,8 @@ author: Cambell Quijano
 # Cambell Quijano 
 
 
-![Front Embroidery Stitch](IMG_7546%202.jpeg)
-
-![Back Embroidery Stitch](Back Embroidery.jpeg)
+![Front Embroidery Stitch](assets/img/IMG_7546 2.jpeg)
+![Back Embroidery Stitch](assets/img/Back Embroidery.jpeg)
 
 
 
