@@ -11,8 +11,8 @@ author: Cambell Quijano
 # Cambell Quijano 
 
 
-![Front Embroidery Stitch](https://quijano1-cell.github.io/assets/img/404-southpark.jpg)
-![Back Embroidery Stitch](assets/img/Back Embroidery.jpeg)
+![Front Embroidery Stitch](https://quijano1-cell.github.io/assets/img/FrontEmroidery2.jpeg)
+![Back Embroidery Stitch](https://quijano1-cell.github.io/assets/img/_ (7).jpeg)
 
 
 
