@@ -12,7 +12,7 @@ author: Cambell Quijano
 
 
 ![Front Embroidery Stitch](https://quijano1-cell.github.io/assets/img/FrontEmroidery2.jpeg)
-![Back Embroidery Stitch](https://quijano1-cell.github.io/assets/img/_ (7).jpeg)
+![Back Embroidery Stitch](https://quijano1-cell.github.io/assets/img/BackEmbroidery.jpeg)
 
 
 
