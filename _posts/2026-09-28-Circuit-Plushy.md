@@ -10,10 +10,16 @@ author: Cambell Quijano
 ---
 # Circuit Plushy
 ---
+# Paper Prototype of Plushy
+
+![Paper Prototype of Plushy](https://quijano1-cell.github.io/assets/img/paperplushyproto.jpeg)
+---
 # Prototype of Plushy with Alligator Clips
 
 ![Alligator Clips Plushy Prototype](https://quijano1-cell.github.io/assets/img/plushyalligator.jpeg)
-### Note
+---
+
+## Note:
 I ran out of alligator clips however my design worked.
 
 ## Description of the Assignment
