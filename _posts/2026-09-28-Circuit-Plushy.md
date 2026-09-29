@@ -18,6 +18,13 @@ author: Cambell Quijano
 
 ![Alligator Clips Plushy Prototype](https://quijano1-cell.github.io/assets/img/plushyalligator.jpeg)
 ---
+# Back of Plushy
+![Back Plushy](https://quijano1-cell.github.io/assets/img/BackPlushy.jpeg)
+---
+![Front Plushy](https://quijano1-cell.github.io/assets/img/Frontplushy.jpeg)
+---
+
+# Front of Plushy
 
 ## Note
 I ran out of alligator clips however my design worked.
