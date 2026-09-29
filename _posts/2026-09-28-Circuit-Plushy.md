@@ -28,6 +28,7 @@ author: Cambell Quijano
 
 ## Note
 I ran out of alligator clips however my design worked.
+For some reason my lights stopped turning on. They worked for a bit but then randomly stopped when the button and switch is on. I double checked for crossed thread but I sill don't know. 
 
 ## Description of the Assignment
 The purpose of this assignment was to learn how to apply the basics of circuitry and the basics of embroidery into a project. We prototyped our designs on paper to represent the conductive thread.
