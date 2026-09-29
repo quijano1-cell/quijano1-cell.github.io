@@ -10,6 +10,11 @@ author: Cambell Quijano
 ---
 # Circuit Plushy
 ---
+# Prototype of Plushy with Alligator Clips
+
+![Alligator Clips Plushy Prototype](https://quijano1-cell.github.io/assets/img/plushyalligator.jpeg)
+### Note
+I ran out of alligator clips however my design worked.
 
 ## Description of the Assignment
 The purpose of this assignment was to learn how to apply the basics of circuitry and the basics of embroidery into a project. We prototyped our designs on paper to represent the conductive thread.
