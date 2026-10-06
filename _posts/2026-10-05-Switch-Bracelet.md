@@ -19,10 +19,10 @@ author: Cambell Quijano
 ![Alligator Clips Braclet Prototype](https://quijano1-cell.github.io/assets/img/BracletAlligator.JPG)
 ---
 # Front of Braclet
-![Front Braclet](https://quijano1-cell.github.io/assets/img/BackPlushy.jpeg)
+![Front Braclet](https://quijano1-cell.github.io/assets/img/FrontBraclet.jpg)
 ---
 # Back of Bracelet
-![Back Bracelet](https://quijano1-cell.github.io/assets/img/Frontplushy.jpeg)
+![Back Bracelet](https://quijano1-cell.github.io/assets/img/BackBraclet.jpg)
 ---
 
 ## Description of the Assignment
