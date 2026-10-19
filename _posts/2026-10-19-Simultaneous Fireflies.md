@@ -9,7 +9,7 @@ mathjax: true
 author: Cambell Quijano
 ---
 # Simultaneous Lights
-![Picoftwolights](https://quijano1-cell.github.io/assets/img/fireflysimultaneous.JPG)
+![Pic of two lights](https://quijano1-cell.github.io/assets/img/fireflysimultaneous.JPG)
 
 ## Description of the Assignment
 The purpose of this assignment was to be able to compile all of the previous code that we created and put them into one arduino file. 
