@@ -11,9 +11,6 @@ author: Cambell Quijano
 # Simultaneous Lights
 ![Pic of two lights](https://quijano1-cell.github.io/assets/img/fireflysimultaneous.JPG)
 
-# Video Simultaneous Lights
-![Watch my video](assets/img/fireflysimultaneous.MOV)
-
 ## Description of the Assignment
 The purpose of this assignment was to be able to compile all of the previous code that we created and put them into one arduino file. 
 This will allow multiple lights to be flashing at the same time.
