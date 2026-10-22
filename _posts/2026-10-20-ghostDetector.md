@@ -9,9 +9,9 @@ mathjax: true
 author: Cambell Quijano
 ---
 # Ghost Output
-![Pic of the Output](https://quijano1-cell.github.io/assets/img/fireflysimultaneous.JPG)
+![Pic of the Output](https://quijano1-cell.github.io/assets/img/ghostpic.JPG)
 
 ## Description of the Assignment
-
-
+This project uses a light sensor and a temperature sensor to detect when it is dark and cold. When both conditions are met, the red LED turns on, and it turns off when either condition is no longer met.
 ## Tip/Trick for next time
+When writing out the code check for spelling mistakes as you go because it is a pain to go back through and find all of them.
