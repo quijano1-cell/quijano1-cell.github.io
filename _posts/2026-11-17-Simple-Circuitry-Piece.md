@@ -11,7 +11,6 @@ author: Cambell Quijano
 # Revised Paper Prototype of Aang Plushie
 ![Aang Plushie](https://quijano1-cell.github.io/assets/img/Reviesed Aang Plushie.JPG)
 
-
 ### Alligator Clip Prototype of Aang Plushie
 ![Aang Alligator Clip](https://quijano1-cell.github.io/assets/img/Aang Alligator Proto.JPG)
 
@@ -21,3 +20,4 @@ author: Cambell Quijano
 ![Aang Alligator Clip](https://quijano1-cell.github.io/assets/img/Aang Alligator gif 2.gif)
 ##### Tips to Past Self
 Make sure you take the batteries out of the holder so, you don't fry the battery.
+When sewing make sure that smaller pieces of conductive thread are used so you don't have short circuits. 
